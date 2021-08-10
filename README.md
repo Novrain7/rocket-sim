@@ -1,2 +1,21 @@
 # rocket-sim
 cmu 112 project
+
+The rocket simulation project allows the user to calculate a rocket's delta-V
+using Tsiolkovsky's rocket equation given parameters such as the rocket's mass
+and propellant type. The user is then able to choose different destinations in
+a node network for said rocket to travel through.
+
+The project is organized into several packages and classes for each individual
+component. For instance, the rocketry package contains code detailling the
+different parts of the rocket (including its stages) as well as functions for
+calculating delta-V while the fx package contains tools for the project's 
+graphical interface such as buttons and dropdown menus.
+
+The most complex portions of the project include the graphical elements as well 
+as the node network and delta-V calculations. Since all the UI tools are being
+coded from scratch, scene and event handling tools must be developed for the 
+program to properly react to button presses and other interactions.
+
+The program is being backed up both as multiple copies on a physical computer
+drive as well as on the cloud in gitHub.
