@@ -1,0 +1,1 @@
+from rocketry.propellants.propellant import Propellant

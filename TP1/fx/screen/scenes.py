@@ -1,0 +1,1 @@
+from fx.screen.scene import Scene

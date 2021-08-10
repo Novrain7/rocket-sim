@@ -1,0 +1,4 @@
+Ammonium Perchlorate Composite, Propellant used in space shuttle boosters., 250
+Liquid Hydrogen/Oxygen Propellant, Used in most liquid fuel rocket engines., 450
+Ion Thruster, Used in satellites. Has weak thrust but impressively long burn time., 3000
+Photonic Engine, Theoretical engine that uses momentum from photons., 30570000
