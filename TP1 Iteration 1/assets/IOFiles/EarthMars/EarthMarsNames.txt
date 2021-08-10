@@ -1,0 +1,17 @@
+Earth, The rocket starts here.
+Low Earth Orbit, Specified as an orbital period of less than 128 minutes and an eccentricity of less than 0.25. The starting point for interplanetary travel.
+Sun, The rocket flies into the sun. It also burns into a crisp.
+Geosynchronous Orbit, GEO. High altitude orbit where the rocket's orbit matches the rotation of the Earth.
+Geostationary Transfer Orbit, Similar to a geosynchronous orbit. GTO's are used for orbital transfers. This is implied in its name.
+Earth-Moon Lagrangian Point, Magical point in space where the gravitational forces of the Earth and the Moon cancel each other out. Also known as the L4L5 Lagrangian Point.
+Lunar Orbit, Lunar orbit. Self explanatory.
+Earth Escape Velocity, Earth C3 Point. Good luck out there.
+Moon, Not made of cheese.
+Mars Transfer Point, Represents the midpoint in the voyage between the Earth and Mars.
+Mars Escape Velocity, Much like the Earth C3 Point. Except its for Mars.
+Deimos Transfer Point, Transfer route to Deimos.
+Deimos, Landing on Deimos.
+Phobos Transfer Point, Transfer route to Phobos.
+Phobos, Landing on Phobos.
+Low Mars Orbit, LMO. Good place to put a satellite or start landing procedures.
+Mars, Landing on Mars. Millions of years of evolution and 200,000 years of civilization leading to this one moment.
